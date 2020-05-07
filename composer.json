@@ -2,8 +2,6 @@
     "name": "samitrimal/pdo",
     "description": "PDO",
     "version": "1.0.0",
-    "type": "database",
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.3"
     },
